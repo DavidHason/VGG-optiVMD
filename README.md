@@ -1,4 +1,4 @@
-# VGG-optiVMD: An algorithm to improve SER
+# VGG-optiVMD: An powerful algorithm to improve SER
 
 # Author: David Hason Rudd
 
