@@ -1,6 +1,6 @@
 # VGG-optiVMD: An algorithm to improve SER
 
-# author: David Hason Rudd
+# Author: David Hason Rudd
 
 Please cite the paper (below DOI) if you are interested in the proposed methodological approach 
 
