@@ -8,4 +8,5 @@ Please cite the paper (below DOI) if you are interested in the proposed methodol
 
 DOI: 
 
-The detailed information of model workflow will be added after paper published officially.
+
+The detailed information of VGG opti VMD algorithm & model workflow will be added after paper published officially.
